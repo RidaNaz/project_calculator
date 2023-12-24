@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.12"
+  },
+  "name": "project_calculator_rida_naz",
+  "version": "1.0.0",
+  "description": "simple calculator that can perform operations like addition, subtrsction, multiplication & division.",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin" : "./app.js",
+  "author": "rida_naz",
+  "license": "ISC"
+}
